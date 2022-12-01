@@ -1,0 +1,9 @@
+**Description of what each script does in 0x00-shell_permissions**
+0-iam_betty - switches current user to user betty.
+1-who_am_i - prints effective username of the current user.
+2-groups - prints all groups user is part of.
+3-new_owner - changes owner of file 'hello' to user: betty.
+4-empty - creates an empty file named hello.
+5-execute -add x permission to owner.
+6-multiple_permissions - adds x permission to owner and group owner and r permission to others to the file hello.
+7-everybody - gives x permission everyone.
