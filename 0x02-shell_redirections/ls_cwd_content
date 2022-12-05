@@ -1,0 +1,24 @@
+total 84
+drwxr-xr-x 2 marisz marisz 4096 Dec  5 23:32 .
+drwxr-xr-x 6 marisz marisz 4096 Dec  5 22:48 ..
+-rwxr--r-- 1 marisz marisz   32 Dec  5 18:12 0-hello_world
+-rwxr--r-- 1 marisz marisz   12 Dec  5 18:18 1
+-rwxr--r-- 1 marisz marisz   29 Dec  5 18:30 1-confused_smiley
+-rwxr--r-- 1 marisz marisz   29 Dec  5 18:29 1-confused_smiley~
+-rw-r--r-- 1 marisz marisz    0 Dec  5 21:19 2
+-rwxr--r-- 1 marisz marisz   28 Dec  5 18:32 2-hellofile
+-rwxr--r-- 1 marisz marisz   12 Dec  5 18:31 2-hellofile~
+-rwxr--r-- 1 marisz marisz   39 Dec  5 18:38 3-twofiles
+-rwxr--r-- 1 marisz marisz   12 Dec  5 18:37 3-twofiles~
+-rwxr--r-- 1 marisz marisz   29 Dec  5 18:40 4-lastlines
+-rwxr--r-- 1 marisz marisz   12 Dec  5 18:39 4-lastlines~
+-rwxr--r-- 1 marisz marisz   29 Dec  5 18:41 5-firstlines
+-rwxr--r-- 1 marisz marisz   12 Dec  5 18:41 5-firstlines~
+-rwxr--r-- 1 marisz marisz   36 Dec  5 22:52 6-third_line
+-rwxr--r-- 1 marisz marisz   12 Dec  5 22:51 6-third_line~
+-rwxr--r-- 1 marisz marisz  104 Dec  5 23:22 7-file
+-rwxr--r-- 1 marisz marisz   89 Dec  5 23:16 7-file~
+-rwxr--r-- 1 marisz marisz   36 Dec  5 23:32 8-cwd_state
+-rwxr--r-- 1 marisz marisz   12 Dec  5 23:30 8-cwd_state~
+-rw-r--r-- 1 marisz marisz  248 Dec  5 22:46 README.md
+-rw-r--r-- 1 marisz marisz    0 Dec  5 23:32 ls_cwd_content
